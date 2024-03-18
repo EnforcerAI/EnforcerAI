@@ -1,4 +1,7 @@
+<a href="https://app.daily.dev/billzydev"><img src="https://api.daily.dev/devcards/v2/IFYXaR2zJ3Jn5ZOarhZkk.png?type=default&r=qbz" width="356" alt="Billzy Collins's Dev Card"/></a>
+
 # **EnforcerAI**
+
 ## *My exploration into AI, machine learning, and powering my online electronics store, Enforcer Electronics.*
 
 # **About Me**
