@@ -1,22 +1,11 @@
-<a href="https://app.daily.dev/billzyai"><img src="https://api.daily.dev/devcards/v2/B9bxK8rLXbyRydWw5XvqQ.png?type=default&r=f7g" width="356" alt="BILLZY COLLINS's Dev Card"/></a>
+🔗 https://app.webhash.com/Links/uploads/block_images/e929752adfdf4c38b8101eee64831d6b.png
 
-# *Decentral1zed.nft
+## 👋  Hey, I'm Billzy Collins
+I'm passionate about the decentralized world of web3! 
 
-## *My exploration into AI, machine learning, and powering my online web3 journey.
+At Decentral1zed, I'm involved in building a cutting-edge online social media platform and exploring all things NFT.
 
-# **About Me**
-## Noob developer passionate about technology, online sales,web3 development and the potential of AI to drive better business solutions.
-
-**Project Focus**
-
-**AI for web3:** Experimenting with
-machine learning for web3
-
-**Coding for Customization:** Learning to code for customized  elements and unique front end features especially if they relate to Web3
-Always eager to learn and collaborate with others interested in AI, coding, and online 
-
-**Email:** itzmebillzy@gmail.com **twitter:** https://twitter.com/Billzylongtodge
-
-
-
-
+### 🛠️  My Skills
+ * Web3 Development:  Solidity, smart contract development, decentralized applications (dApps)
+ * NFT Know-how: Creation, minting, marketplaces
+ * Blockchain Enthusiast:  Staying on top of the latest trends and advancements
